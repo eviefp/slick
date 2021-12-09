@@ -3,3 +3,4 @@ sitepipe-shake.cabal
 *~
 .shake/
 dist/
+/dist-newstyle/

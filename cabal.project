@@ -1,0 +1,7 @@
+packages: slick.cabal
+
+source-repository-package
+  type: git
+  location: https://github.com/eviefp/mustache.git
+  tag: 333c4460895555d7c447d88260078b8dc0e9860d
+
